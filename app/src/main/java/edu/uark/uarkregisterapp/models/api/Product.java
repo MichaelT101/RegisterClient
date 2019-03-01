@@ -24,7 +24,7 @@ public class Product implements ConvertToJsonInterface, LoadFromJsonInterface<Pr
 		this.id = id;
 		return this;
 	}
-
+	//testing commit path 3/1/19
 	private String lookupCode;
 	public String getLookupCode() {
 		return this.lookupCode;
