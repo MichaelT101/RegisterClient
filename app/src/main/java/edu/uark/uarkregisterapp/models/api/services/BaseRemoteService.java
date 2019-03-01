@@ -257,7 +257,7 @@ abstract class BaseRemoteService {
 	BaseRemoteService(ApiObject apiObject) {
 		this.apiObject = apiObject;
 	}
-
+	//test comment 2/19/19 testy wewe
 	private static final String URL_JOIN = "/";
 	private static final String GET_REQUEST_METHOD = "GET";
 	private static final String PUT_REQUEST_METHOD = "PUT";
